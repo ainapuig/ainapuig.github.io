@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About"
+title: "About Aina Puig"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a third year PhD student in Economics at American University. My research interests are in macroeconomics and inequality with a current focus on monetary policy.
+Hi! I'm a third year PhD student in economics at American University. My research interests are in macroeconomics and inequality topics. I have worked on projects studying the distributional effects of monetary policy while visiting the Federal Reserve Board, the Federal Reserve Bank of San Francisco, and the International Monetary Fund.
 
 Working Papers
 ------
