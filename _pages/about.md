@@ -12,7 +12,7 @@ Hi! I'm a third year PhD student in economics at American University. My researc
 
 Working Papers
 ------
-"Monetary Policy Transmission by Gender and Race: The Inequality Unexplained by Income" [Updated version]
+"Monetary Policy Transmission by Gender and Race: The Inequality Unexplained by Income" [July 2023]()
 
 
 Publications
