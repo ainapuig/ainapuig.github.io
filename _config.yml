@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Aina Puig"
+title                    : " "
 title_separator          : "-"
 name                     : &name "Aina Puig"
 description              : &description "personal description"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : " "
+  name             : "Aina Puig"
   avatar           : "profile.png"
   bio              : " "
   location         : 
