@@ -17,7 +17,7 @@ Working Papers
 
 Publications
 ------
-"The Unequal Effect of Interest Rates by Race, Gender," _Federal Reserve Bank of San Francisco, Economic Letter 2022-19_. [Link]([https://www.frbsf.org/economic-research/publications/economic-letter/2022/august/unequal-effect-interest-rates-by-race-and-gender/])
+"The Unequal Effect of Interest Rates by Race, Gender," _Federal Reserve Bank of San Francisco, Economic Letter 2022-19_. [Link](https://www.frbsf.org/economic-research/publications/economic-letter/2022/august/unequal-effect-interest-rates-by-race-and-gender/){target="_blank"}
 
 
 Works in Progress
