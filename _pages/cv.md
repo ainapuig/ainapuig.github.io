@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-[Download CV](){:target="_blank"}
+[Download CV](http://academicpages.github.io/files/CV_AinaPuig.pdf){:target="_blank"}
