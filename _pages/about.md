@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I'm a third year PhD student in economics at American University. My research interests are in macroeconomics and inequality topics. I have worked on projects studying the distributional effects of monetary policy while visiting the Federal Reserve Board, the Federal Reserve Bank of San Francisco, and the International Monetary Fund.
+Hi! I'm a fourth year PhD student in economics at American University. My research interests are in macroeconomics and inequality topics. I have worked on projects studying the distributional effects of monetary policy while visiting the Federal Reserve Board, the Federal Reserve Bank of San Francisco, and the International Monetary Fund.
 
 Working Papers
 ------
