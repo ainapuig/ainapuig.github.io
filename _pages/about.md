@@ -17,9 +17,9 @@ Working Papers
 
 Publications
 ------
-"Monetary Policy and Labor Market Gender Gaps," with Valentina Flamini, Diego B. P. Gomes, Bihong Huang, Lisa Kolovich, Aleksandra Zdzienicka [(Link)](https://www.imf.org/en/Publications/WP/Issues/2023/09/29/Monetary-Policy-and-Labor-Market-Gender-Gaps-539650){:target="_blank"} _IMF Working Paper No. 23/211. International Monetary Fund (2023)_.
+"Monetary Policy and Labor Market Gender Gaps," with Valentina Flamini, Diego B. P. Gomes, Bihong Huang, Lisa Kolovich, Aleksandra Zdzienicka [(Link)](https://www.imf.org/en/Publications/WP/Issues/2023/09/29/Monetary-Policy-and-Labor-Market-Gender-Gaps-539650){:target="_blank"} ***IMF Working Paper*** _No. 23/211, International Monetary Fund_ (2023).
 
-"The Unequal Effect of Interest Rates by Race, Gender,"[(Link)](https://www.frbsf.org/economic-research/publications/economic-letter/2022/august/unequal-effect-interest-rates-by-race-and-gender/){:target="_blank"} _Federal Reserve Bank of San Francisco, Economic Letter 2022-19_. 
+"The Unequal Effect of Interest Rates by Race, Gender," [(Link)](https://www.frbsf.org/economic-research/publications/economic-letter/2022/august/unequal-effect-interest-rates-by-race-and-gender/){:target="_blank"} ***Federal Reserve Bank of San Francisco, Economic Letter*** _2022-19_ (2022). 
 
 
 Works in Progress
