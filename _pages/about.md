@@ -24,5 +24,5 @@ Publications
 
 Works in Progress
 ------
-"Unpaid Elderly Care Work and Women’s Labor Force Participation: The Case of South Korea" (with Selin Secil Akin, Sung Ah Bahk,
-Lidia Brun Carrasco, Ignacio Gonzalez Garcia)
+"Unpaid Elderly Care Work and Women’s Labor Force Participation: The Case of South Korea," with Selin Secil Akin, Sung Ah Bahk,
+Lidia Brun Carrasco, Ignacio Gonzalez Garcia
