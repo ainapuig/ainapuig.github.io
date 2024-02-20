@@ -12,7 +12,8 @@ Hi! I'm a fourth year PhD student in economics at American University. My resear
 
 Working Papers
 ------
-"Monetary Policy Transmission by Gender and Race: The Inequality Unexplained by Income" [August 2023](http://ainapuig.github.io/files/papers/Paper_MPInequGR_APuig.pdf){:target="_blank"}
+"Monetary Policy Transmission to Consumption: Inequalities by Gender and Race" [February 2024](http://ainapuig.github.io/files/papers/Paper_MPInequGR_APuig.pdf){:target="_blank"}
+- Previous title: "Monetary Policy Transmission by Gender and Race: The Inequality Unexplained by Income"
 
 
 Publications
