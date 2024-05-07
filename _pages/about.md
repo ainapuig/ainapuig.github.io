@@ -12,7 +12,8 @@ Hi! I'm a PhD candidate in economics at American University, visiting the Univer
 
 Working Papers
 ------
-"Monetary Policy Transmission to Consumption: Inequalities by Gender and Race" [Feb. 2024](http://ainapuig.github.io/files/papers/Paper_MPInequGR_APuig.pdf){:target="_blank"}
+<!-- "Monetary Policy Transmission to Consumption: Inequalities by Gender and Race" [Feb. 2024](http://ainapuig.github.io/files/papers/Paper_MPInequGR_APuig.pdf){:target="_blank"} -->
+"Monetary Policy Transmission to Consumption: Inequalities by Gender and Race" (2024)
 - Previous title: "Monetary Policy Transmission by Gender and Race: The Inequality Unexplained by Income"
 
 
