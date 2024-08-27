@@ -32,5 +32,7 @@ Publications
 
 Works in Progress
 ------
+"Consumer Responses to Fed Communications: Prior Beliefs, Consumption, Demographics" (2024)
+
 "Unpaid Elderly Care Work and Women’s Labor Force Participation: The Case of South Korea," with Selin Secil Akin, Sung Ah Bahk,
 Lidia Brun Carrasco, Ignacio Gonzalez Garcia
