@@ -10,10 +10,14 @@ redirect_from:
 
 Hi! I'm a PhD candidate in economics at American University and Dissertation Fellow at the Federal Reserve Board for Summer 2024. I visited the University of Pennsylvania for Spring 2024. 
 
+**I will be on the job market during the 2024-2025 academic year.**
+
 My research interests are in macroeconomics and inequality topics. I have worked on projects studying the distributional effects of monetary policy while visiting the Federal Reserve Board, the Federal Reserve Bank of San Francisco, and the International Monetary Fund.
 
 Working Papers
 ------
+"New Survey Evidence of Marginal Propensities to Consume: A Decomposition of Differences by Race" (2024) **Job Market Paper**
+
 <!-- "Monetary Policy Transmission to Consumption: Inequalities by Gender and Race" [Feb. 2024](http://ainapuig.github.io/files/papers/Paper_MPInequGR_APuig.pdf){:target="_blank"} -->
 "Monetary Policy Transmission to Consumption: Inequalities by Gender and Race" (2024)
 - Previous title: "Monetary Policy Transmission by Gender and Race: The Inequality Unexplained by Income"
