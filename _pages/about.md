@@ -16,7 +16,7 @@ My research interests are in macroeconomics and inequality topics. I have worked
 
 Working Papers
 ------
-"New Survey Evidence of Marginal Propensities to Consume: A Decomposition of Differences by Race" (2024) **Job Market Paper**
+"New Survey Evidence of Marginal Propensities to Consume: A Decomposition of Differences by Race" (2024) **_Job Market Paper_**
 
 <!-- "Monetary Policy Transmission to Consumption: Inequalities by Gender and Race" [Feb. 2024](http://ainapuig.github.io/files/papers/Paper_MPInequGR_APuig.pdf){:target="_blank"} -->
 "Monetary Policy Transmission to Consumption: Inequalities by Gender and Race" (2024)
