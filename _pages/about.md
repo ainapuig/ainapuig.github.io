@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I'm a PhD candidate in economics at American University. I visited the University of Pennsylvania during Spring 2024. 
+I'm a PhD candidate in economics at American University. I visited the University of Pennsylvania during Spring 2024. 
 
 **I will be on the job market during the 2024-2025 academic year.**
 
