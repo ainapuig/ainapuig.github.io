@@ -21,21 +21,21 @@ Working Papers
 ------
 "The Marginal Propensity to Consume by Race: New Survey Evidence and Theory" (2024)           **_Job Market Paper_**
 
-> <details>
-> <summary>Abstract</summary>
-> <br>
-> The spending behavior of racial groups has been of long-standing interest in economics and sociology, from Du Bois (1899) and Friedman (1957). This paper presents newly collected survey data from September 2023 on marginal propensities to consume (MPCs) from a hypothetical unexpected $500 income transfer. The average MPC out of this transitory income is 59% for black and 38% for white respondents. Most of the racial difference in MPCs remains unexplained after empirically controlling for respondent characteristics such as demographics and income. I use a life-cycle model to explain these patterns and find that 30% of the racial difference in spending is explained by status compensation motives. All households with wealth like to signal their status by consuming goods that are visible to others. Black consumers have more of a need to signal status to compensate for being assumed to have lower incomes. Models that include racial heterogeneity in earnings volatility, unemployment shocks, and expenses, but exclude status motives, do not match the data showing that black household spending on visible goods increases with wealth. In the model with status compensation, MPCs fall with larger transfers and are higher for negative income shocks. Also, a 6.5% tax on visible goods could finance reparations payments that support spending on non-visible goods.
-> </details>
+<details>
+<summary>Abstract</summary>
+<br>
+The spending behavior of racial groups has been of long-standing interest in economics and sociology, from Du Bois (1899) and Friedman (1957). This paper presents newly collected survey data from September 2023 on marginal propensities to consume (MPCs) from a hypothetical unexpected $500 income transfer. The average MPC out of this transitory income is 59% for black and 38% for white respondents. Most of the racial difference in MPCs remains unexplained after empirically controlling for respondent characteristics such as demographics and income. I use a life-cycle model to explain these patterns and find that 30% of the racial difference in spending is explained by status compensation motives. All households with wealth like to signal their status by consuming goods that are visible to others. Black consumers have more of a need to signal status to compensate for being assumed to have lower incomes. Models that include racial heterogeneity in earnings volatility, unemployment shocks, and expenses, but exclude status motives, do not match the data showing that black household spending on visible goods increases with wealth. In the model with status compensation, MPCs fall with larger transfers and are higher for negative income shocks. Also, a 6.5% tax on visible goods could finance reparations payments that support spending on non-visible goods.
+</details>
 
 <!-- "Monetary Policy Transmission to Consumption: Inequalities by Gender and Race" [Feb. 2024](http://ainapuig.github.io/files/papers/Paper_MPInequGR_APuig.pdf){:target="_blank"} -->
 "Monetary Policy Transmission to Consumption: Inequalities by Gender and Race" (2024)
 - Previous title: "Monetary Policy Transmission by Gender and Race: The Inequality Unexplained by Income"
 
-> <details>
-> <summary>Abstract</summary>
-> <br>
-> This paper finds evidence that contractionary monetary policy shocks raise consumption inequality by gender and race, along with raising unemployment and income inequality. Following a 25 basis point contractionary shock, spending on durable goods falls by 15% for households headed by black men while only 5% for households headed by white men. Additionally, spending on nondurable goods and services is decreased by 1.3% for households headed by black women, but by less than 1% for households headed by white men or women. Household characteristics such as composition or income do not explain differences in consumption responses. I also show that contractionary, rather than expansionary, shocks generally drive transmission inequalities.
-> </details>
+<details>
+<summary>Abstract</summary>
+<br>
+This paper finds evidence that contractionary monetary policy shocks raise consumption inequality by gender and race, along with raising unemployment and income inequality. Following a 25 basis point contractionary shock, spending on durable goods falls by 15% for households headed by black men while only 5% for households headed by white men. Additionally, spending on nondurable goods and services is decreased by 1.3% for households headed by black women, but by less than 1% for households headed by white men or women. Household characteristics such as composition or income do not explain differences in consumption responses. I also show that contractionary, rather than expansionary, shocks generally drive transmission inequalities.
+</details>
 
 Publications
 ------
