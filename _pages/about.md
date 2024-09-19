@@ -8,13 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I'm a PhD candidate in economics at American University and I visited the University of Pennsylvania during Spring 2024. 
+Hi! I'm a PhD candidate in economics at American University. I visited the University of Pennsylvania during Spring 2024. 
 
 **I will be on the job market during the 2024-2025 academic year.**
 
 My research interests are in macroeconomics and inequality topics. I have worked on projects studying the distributional effects of fiscal and monetary policies while visiting the Federal Reserve Board, the Federal Reserve Bank of San Francisco, and the International Monetary Fund.
 
-Email: ak3851a[at]american.edu
+Email: ak3851a [at] american.edu
 
 
 Working Papers
