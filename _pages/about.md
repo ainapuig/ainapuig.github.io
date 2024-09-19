@@ -19,7 +19,7 @@ Email: ak3851a [at] american.edu
 
 Working Papers
 ------
-"The Marginal Propensity to Consume by Race: New Survey Evidence and Theory" (2024) &nbsp;&nbsp;&nbsp;&nbsp; **_Job Market Paper_**
+"Racial Differences in the Marginal Propensity to Consume: New Survey Evidence and Theory" (2024) &nbsp;&nbsp;&nbsp;&nbsp; **_Job Market Paper_**
 
 <ul>
 <details>
