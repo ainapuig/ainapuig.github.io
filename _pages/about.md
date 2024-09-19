@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About Aina Puig"
+title:    # "About Aina Puig"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -12,7 +12,10 @@ Hi! I'm a PhD candidate in economics at American University and I visited the Un
 
 **I will be on the job market during the 2024-2025 academic year.**
 
-My research interests are in macroeconomics and inequality topics. I have worked on projects studying the distributional effects of fiscal and monetary policies while visiting the Federal Reserve Board (2023,2024), the Federal Reserve Bank of San Francisco (2022), and the International Monetary Fund (2022).
+My research interests are in macroeconomics and inequality topics. I have worked on projects studying the distributional effects of fiscal and monetary policies while visiting the Federal Reserve Board, the Federal Reserve Bank of San Francisco, and the International Monetary Fund.
+
+Email: ak3851a[at]american.edu
+
 
 Working Papers
 ------
