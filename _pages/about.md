@@ -19,7 +19,7 @@ Email: ak3851a [at] american.edu
 
 Working Papers
 ------
-"Racial Differences in the Marginal Propensity to Consume: New Survey Evidence and Theory" (2024) **_Job Market Paper_**
+"Racial Differences in the Marginal Propensity to Consume: New Survey Evidence and Theory" (2024) **_Job Market Paper_** [Link](http://ainapuig.github.io/files/papers/Paper_MPC_Race_AinaPuig.pdf){:target="_blank"}
 
 <ul>
 <details>
