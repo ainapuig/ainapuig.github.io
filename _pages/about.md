@@ -19,7 +19,7 @@ Email: ak3851a [at] american.edu
 
 Working Papers
 ------
-"Racial Differences in the Marginal Propensity to Consume: New Survey Evidence and Theory" (2024) **_Job Market Paper_** [Link](http://ainapuig.github.io/files/papers/Paper_MPC_Race_AinaPuig.pdf){:target="_blank"}
+"Racial Differences in the Marginal Propensity to Consume: New Survey Evidence and Theory" **_Job Market Paper_** [Link](http://ainapuig.github.io/files/papers/Paper_MPC_Race_AinaPuig.pdf){:target="_blank"}
 
 <ul>
 <details>
@@ -30,9 +30,8 @@ The racial wealth gap is large. An explanation for the persistence of this gap i
 </ul>
 <br>
 <!-- "Monetary Policy Transmission to Consumption: Inequalities by Gender and Race" [Feb. 2024](http://ainapuig.github.io/files/papers/Paper_MPInequGR_APuig.pdf){:target="_blank"} -->
-"Monetary Policy Transmission to Consumption: Inequalities by Gender and Race" (2024)
+"Monetary Policy Transmission to Consumption: Inequalities by Gender and Race"
 
-- Previous title: "Monetary Policy Transmission by Gender and Race: The Inequality Unexplained by Income"
 <ul>
 <details>
 <summary>Abstract</summary>
@@ -41,7 +40,7 @@ This paper finds evidence that contractionary monetary policy shocks raise consu
 </details>
 </ul>
 
-Publications
+Policy Papers
 ------
 "Monetary Policy and Labor Market Gender Gaps," with Valentina Flamini, Diego B. P. Gomes, Bihong Huang, Lisa Kolovich, Aleksandra Zdzienicka [(Link)](https://www.imf.org/en/Publications/WP/Issues/2023/09/29/Monetary-Policy-and-Labor-Market-Gender-Gaps-539650){:target="_blank"} _IMF Working Paper No. 23/211, International Monetary Fund_ (2023).
 
@@ -50,7 +49,7 @@ Publications
 
 Works in Progress
 ------
-"Consumer Responses to Fed Communications: Prior Beliefs, Consumption, Demographics" (2024)
+"Consumer Responses to Fed Communications: Prior Beliefs, Consumption, Demographics"
 
 "Unpaid Elderly Care Work and Women’s Labor Force Participation: The Case of South Korea," with Selin Secil Akin, Sung Ah Bahk,
 Lidia Brun Carrasco, Ignacio Gonzalez Garcia
