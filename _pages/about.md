@@ -10,7 +10,7 @@ redirect_from:
 
 I'm a PhD candidate in economics at American University. I visited the University of Pennsylvania during Spring 2024. 
 
-**I will be on the job market during the 2024-2025 academic year.**
+**I am on the 2024-2025 job market.**
 
 My research interests are in macroeconomics and inequality topics. I have worked on projects studying the distributional effects of fiscal and monetary policies while visiting the Federal Reserve Board, Federal Reserve Bank of San Francisco, and International Monetary Fund.
 
