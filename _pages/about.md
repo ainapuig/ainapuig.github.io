@@ -10,8 +10,6 @@ redirect_from:
 
 I'm a PhD candidate in economics at American University. I visited the University of Pennsylvania during Spring 2024. 
 
-**I am on the 2024-2025 job market.**
-
 My research interests are in macroeconomics and inequality topics. I have worked on projects studying the distributional effects of fiscal and monetary policies while visiting the Federal Reserve Board, Federal Reserve Bank of San Francisco, and International Monetary Fund.
 
 Email: ak3851a [at] american.edu
@@ -19,7 +17,7 @@ Email: ak3851a [at] american.edu
 
 Working Papers
 ------
-"Racial Differences in the Marginal Propensity to Consume: New Survey Evidence and Theory" **_Job Market Paper_** [Link](http://ainapuig.github.io/files/papers/Paper_MPC_Race_AinaPuig.pdf){:target="_blank"}
+"Racial Differences in the Marginal Propensity to Consume: New Survey Evidence and Theory" [Link](http://ainapuig.github.io/files/papers/Paper_MPC_Race_AinaPuig.pdf){:target="_blank"}
 
 <ul>
 <details>
