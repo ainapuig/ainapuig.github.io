@@ -34,9 +34,22 @@ The racial wealth gap is large. An explanation for the persistence of this gap i
 <details>
 <summary>Abstract</summary>
 <br>
-This paper finds evidence that contractionary monetary policy shocks raise consumption inequality by gender and race, along with raising unemployment and income inequality. Following a 25 basis point contractionary shock, spending on durable goods falls by 15% for households headed by black men while only 5% for households headed by white men. Additionally, spending on nondurable goods and services is decreased by 1.3% for households headed by black women, but by less than 1% for households headed by white men or women. Household characteristics such as composition or income do not explain differences in consumption responses. I also show that contractionary, rather than expansionary, shocks generally drive transmission inequalities.
+This paper finds evidence that contractionary monetary policy shocks increase consumption inequality by gender and race, along with increasing unemployment and income inequality. Following a 25 basis point contractionary shock, spending on durable goods falls by 7.5% for households headed by black women, while only 5% for households headed by white men. Contractionary shocks also lead households to substitute expenditures on essential non-durable goods and services for non-essentials and durable goods. Household characteristics such as education, debt, income, or composition do not explain all gender and racial differences in consumption responses. I estimate the marginal propensity to consume following monetary policy shocks and find that it is larger for durable goods than non-durable goods and services. Lastly, I find that contractionary, rather than expansionary, shocks drive overall household consumption responses.
 </details>
 </ul>
+
+
+"Unpaid Elderly Care Work and Women’s Labor Force Participation: The Case of South Korea," with Selin Secil Akin, Sung Ah Bahk,
+Lidia Brun Carrasco, Ignacio Gonzalez Garcia
+
+<ul>
+<details>
+<summary>Abstract</summary>
+<br>
+This study investigates the impact of Korea's universal long-term care insurance (LTCI) system, implemented in 2008, on the labor market outcomes of family caregivers. We exploit multiple discontinuities in LTCI benefits to estimate their effect on caregivers' employment. Analyzing data from a nationally representative survey, we find a significant increase in labor force participation among women attributable to LTCI benefits, while no corresponding effect is observed for men. Additionally, the benefits reduce the likelihood of women engaging in family caregiving as their primary activity, underscoring the gender-differentiated impact of Korea's LTCI. These findings highlight the crucial role of LTC policies in shaping labor market outcomes for caregivers, with notable implications for female labor supply dynamics.
+</details>
+</ul>
+
 
 Policy Papers
 ------
@@ -49,5 +62,3 @@ Works in Progress
 ------
 "Consumer Responses to Fed Communications: Prior Beliefs, Consumption, Demographics"
 
-"Unpaid Elderly Care Work and Women’s Labor Force Participation: The Case of South Korea," with Selin Secil Akin, Sung Ah Bahk,
-Lidia Brun Carrasco, Ignacio Gonzalez Garcia
