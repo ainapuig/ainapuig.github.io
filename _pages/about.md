@@ -40,7 +40,7 @@ This paper finds evidence that contractionary monetary policy shocks increase co
 
 
 "Unpaid Elderly Care Work and Women’s Labor Force Participation: The Case of South Korea," with Selin Secil Akin, Sung Ah Bahk,
-Lidia Brun Carrasco, Ignacio Gonzalez Garcia
+Lidia Brun Carrasco, Ignacio González
 
 <ul>
 <details>
@@ -53,6 +53,8 @@ This study investigates the impact of Korea's universal long-term care insurance
 
 Policy Papers
 ------
+"Raising Capital Gains Taxes Would Reduce Inequality Without Economic Costs," with Juan Montecino, Mary Hansen, and Ignacio González [(Link)](https://inequality.org/article/capital-gains-taxes-inequality/){:target="_blank"} _Inequality.org_ (2025).
+
 "Monetary Policy and Labor Market Gender Gaps," with Valentina Flamini, Diego B. P. Gomes, Bihong Huang, Lisa Kolovich, Aleksandra Zdzienicka [(Link)](https://www.imf.org/en/Publications/WP/Issues/2023/09/29/Monetary-Policy-and-Labor-Market-Gender-Gaps-539650){:target="_blank"} _IMF Working Paper No. 23/211, International Monetary Fund_ (2023).
 
 "The Unequal Effect of Interest Rates by Race, Gender," [(Link)](https://www.frbsf.org/economic-research/publications/economic-letter/2022/august/unequal-effect-interest-rates-by-race-and-gender/){:target="_blank"} _Federal Reserve Bank of San Francisco, Economic Letter  2022-19_ (2022). 
