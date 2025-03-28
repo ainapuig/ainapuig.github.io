@@ -39,8 +39,8 @@ This paper finds evidence that contractionary monetary policy shocks increase co
 </ul>
 
 
-"Unpaid Elderly Care Work and Women’s Labor Force Participation: The Case of South Korea," with Selin Secil Akin, Sung Ah Bahk,
-Lidia Brun Carrasco, Ignacio González
+"Unpaid Elderly Care Work and Women’s Labor Force Participation: The Case of South Korea," with Selin Seçil Akın, Sung Ah Bahk,
+Lídia Brun, Ignacio González
 
 <ul>
 <details>
