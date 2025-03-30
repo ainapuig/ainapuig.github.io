@@ -8,8 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-I'm a PhD candidate in economics at American University. I visited the University of Pennsylvania during Spring 2024. My research interests are in applied macroeconomics topics. Recent news:
+I'm a PhD candidate in economics at American University. I visited the University of Pennsylvania during Spring 2024. My research interests are in applied macroeconomics, monetary economics, consumer finance. 
 
+Email: ak3851a [at] american.edu
+
+Recent News
+------
 <ul>
   <li>Dissertation Fellow, <b>Federal Reserve Board</b> (June–Sept. 2024)</li>
   <li>Winner of Barbara Bergmann Prize Grant. <b>Designed and collected survey</b> on consumer behaviors, expectations, and understanding of monetary policy (Sept. 2023)</li>
@@ -18,7 +22,6 @@ I'm a PhD candidate in economics at American University. I visited the Universit
   <li><a href="https://www.frbsf.org/news-and-media/news-articles/press-releases/2022/05/san-francisco-fed-honors-graduate-students-from-american-university-uc-irvine-in-unlocking-our-potential-program/">Winner</a> of <b>Federal Reserve Bank of San Francisco</b> "Unlocking Our Potential" Essay Contest. Visiting Research Scholar, Federal Reserve Bank of San Francisco (May–Jun. 2022) </li>
 </ul>
 
-Email: ak3851a [at] american.edu
 
 
 Working Papers
