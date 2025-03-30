@@ -8,9 +8,14 @@ redirect_from:
   - /about.html
 ---
 
-I'm a PhD candidate in economics at American University. I visited the University of Pennsylvania during Spring 2024. 
+I'm a PhD candidate in economics at American University. I visited the University of Pennsylvania during Spring 2024. My research interests are in applied macroeconomics topics. Recent news:
 
-My research interests are in macroeconomics and inequality topics. I have worked on projects studying the distributional effects of fiscal and monetary policies while visiting the Federal Reserve Board, Federal Reserve Bank of San Francisco, and International Monetary Fund.
+<ul>
+  <li>Dissertation Fellow, Federal Reserve Board (June–Sept. 2024)</li>
+  <li>Graduate Economic Intern, Federal Reserve Board (May–Jul. 2023)</li>
+  <li>Fund Intern, International Monetary Fund (Jun.–Sept. 2022)</li>
+  <li><a href="https://www.frbsf.org/news-and-media/news-articles/press-releases/2022/05/san-francisco-fed-honors-graduate-students-from-american-university-uc-irvine-in-unlocking-our-potential-program/">Winner</a> of Federal Reserve Bank of San Francisco "Unlocking Our Potential" Contest. Visiting Research Scholar, Federal Reserve Bank of San Francisco (May–Jun. 2022) </li>
+</ul>
 
 Email: ak3851a [at] american.edu
 
