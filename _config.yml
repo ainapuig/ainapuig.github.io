@@ -86,7 +86,7 @@ author:
   location         : 
   employer         :
   pubmed           : 
-  googlescholar    : 
+  googlescholar    : "https://scholar.google.com/citations?user=Q3vLJvMAAAAJ&hl=en&oi=ao"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : 
   lastfm           :
-  linkedin         : "aina-puig-24108a106"
+  linkedin         : "aina-puig"
   orcid            : 
   pinterest        :
   soundcloud       :
