@@ -11,11 +11,11 @@ redirect_from:
 I'm a PhD candidate in economics at American University. I visited the University of Pennsylvania during Spring 2024. My research interests are in applied macroeconomics topics. Recent news:
 
 <ul>
-  <li>Dissertation Fellow, Federal Reserve Board (June–Sept. 2024)</li>
-  <li>Winner of Barbara Bergmann Prize Grant. Designed and collected survey on consumer behaviors, expectations, and understanding of monetary policy (Sept. 2023)</li>
-  <li>Graduate Economic Intern, Federal Reserve Board (May–Jul. 2023)</li>
-  <li>Fund Intern, International Monetary Fund (Jun.–Sept. 2022)</li>
-  <li><a href="https://www.frbsf.org/news-and-media/news-articles/press-releases/2022/05/san-francisco-fed-honors-graduate-students-from-american-university-uc-irvine-in-unlocking-our-potential-program/">Winner</a> of Federal Reserve Bank of San Francisco "Unlocking Our Potential" Essay Contest. Visiting Research Scholar, Federal Reserve Bank of San Francisco (May–Jun. 2022) </li>
+  <li>Dissertation Fellow, <b>Federal Reserve Board</b> (June–Sept. 2024)</li>
+  <li>Winner of Barbara Bergmann Prize Grant. <b>Designed and collected survey</b> on consumer behaviors, expectations, and understanding of monetary policy (Sept. 2023)</li>
+  <li>Graduate Economic Intern, <b>Federal Reserve Board</b> (May–Jul. 2023)</li>
+  <li>Fund Intern, <b>International Monetary Fund</b> (Jun.–Sept. 2022)</li>
+  <li><a href="https://www.frbsf.org/news-and-media/news-articles/press-releases/2022/05/san-francisco-fed-honors-graduate-students-from-american-university-uc-irvine-in-unlocking-our-potential-program/">Winner</a> of <b>Federal Reserve Bank of San Francisco</b> "Unlocking Our Potential" Essay Contest. Visiting Research Scholar, Federal Reserve Bank of San Francisco (May–Jun. 2022) </li>
 </ul>
 
 Email: ak3851a [at] american.edu
