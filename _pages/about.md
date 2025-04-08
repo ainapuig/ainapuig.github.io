@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a PhD candidate in economics at American University. I visited the University of Pennsylvania during Spring 2024. My research interests are in applied macroeconomics, monetary economics, consumer finance. 
+I'm a PhD candidate in economics at American University. I visited the University of Pennsylvania during Spring 2024. My research interests are in applied macroeconomics, monetary economics, and consumer finance. 
 
 Email: ak3851a [at] american.edu
 
