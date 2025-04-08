@@ -21,6 +21,6 @@ __Econ 301: Intermediate Macroeconomics__
 TA: Spring 2022
 
 
-__Econ100: Introduction to Macroeconomics__
+__Econ 100: Introduction to Macroeconomics__
 
 TA: Fall 2020, Fall 2021
