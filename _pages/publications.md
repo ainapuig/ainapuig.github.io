@@ -43,6 +43,8 @@ This study investigates the impact of Korea's universal long-term care insurance
 
 Policy Papers
 ------
+"Republicans are Reportedly Considering a Tax Hike on the Rich. How Would this Affect Growth?" with Juan Montecino, Mary Hansen, and Ignacio González [(Link)](https://inequality.org/article/republican-tax-increase-on-the-rich/){:target="_blank"} _Inequality.org_ (2025).
+
 "Raising Capital Gains Taxes Would Reduce Inequality Without Economic Costs," with Juan Montecino, Mary Hansen, and Ignacio González [(Link)](https://inequality.org/article/capital-gains-taxes-inequality/){:target="_blank"} _Inequality.org_ (2025).
 
 "Monetary Policy and Labor Market Gender Gaps," with Valentina Flamini, Diego B. P. Gomes, Bihong Huang, Lisa Kolovich, Aleksandra Zdzienicka [(Link)](https://www.imf.org/en/Publications/WP/Issues/2023/09/29/Monetary-Policy-and-Labor-Market-Gender-Gaps-539650){:target="_blank"} _IMF Working Paper No. 23/211, International Monetary Fund_ (2023).
