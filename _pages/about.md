@@ -23,7 +23,7 @@ __Interests__
 Recent News
 ------
 <ul>
-  <li>Winner of American University Department Economics Award for <b>"best paper in applied economic research"</b>  (Apr. 2025)</li>
+  <li>Awarded <b>"best paper in applied economic research"</b> by American University Department of Economics (Apr. 2025)</li>
   <li>Dissertation Fellow, <b>Federal Reserve Board</b> (June–Sept. 2024)</li>
   <li>Winner of Barbara Bergmann Prize Grant. <b>Designed and collected survey</b> on consumer behaviors, expectations, and understanding of monetary policy (Sept. 2023)</li>
   <li>Graduate Economic Intern, <b>Federal Reserve Board</b> (May–Jul. 2023)</li>
