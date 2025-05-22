@@ -18,7 +18,8 @@ The racial wealth gap is large. An explanation for the persistence of this gap i
 </ul>
 <br>
 <!-- "Monetary Policy Transmission to Consumption: Inequalities by Gender and Race" [Feb. 2024](http://ainapuig.github.io/files/papers/Paper_MPInequGR_APuig.pdf){:target="_blank"} -->
-"Monetary Policy Transmission to Consumption: Inequalities by Gender and Race"
+
+"Monetary Policy Transmission to Consumption: Inequalities by Gender and Race" _[submitted]_
 
 <ul>
 <details>
@@ -40,18 +41,21 @@ This study investigates the impact of Korea's universal long-term care insurance
 </details>
 </ul>
 
-
-Policy Papers
-------
-"Republicans are Reportedly Considering a Tax Hike on the Rich. How Would this Affect Growth?" with Juan Montecino, Mary Hansen, and Ignacio González [(Link)](https://inequality.org/article/republican-tax-increase-on-the-rich/){:target="_blank"} _Inequality.org_ (2025).
-
-"Raising Capital Gains Taxes Would Reduce Inequality Without Economic Costs," with Juan Montecino, Mary Hansen, and Ignacio González [(Link)](https://inequality.org/article/capital-gains-taxes-inequality/){:target="_blank"} _Inequality.org_ (2025).
-
 "Monetary Policy and Labor Market Gender Gaps," with Valentina Flamini, Diego B. P. Gomes, Bihong Huang, Lisa Kolovich, Aleksandra Zdzienicka [(Link)](https://www.imf.org/en/Publications/WP/Issues/2023/09/29/Monetary-Policy-and-Labor-Market-Gender-Gaps-539650){:target="_blank"} _IMF Working Paper No. 23/211, International Monetary Fund_ (2023).
-
-"The Unequal Effect of Interest Rates by Race, Gender," [(Link)](https://www.frbsf.org/economic-research/publications/economic-letter/2022/august/unequal-effect-interest-rates-by-race-and-gender/){:target="_blank"} _Federal Reserve Bank of San Francisco, Economic Letter  2022-19_ (2022). 
 
 
 Works in Progress
 ------
 "Consumer Responses to Fed Communications: Prior Beliefs, Consumption, Demographics"
+
+
+Policy Papers
+------
+"Increased Pass-Through Business Tax Break Would Worsen Inequality Without Boosting Growth" with Juan Montecino, Mary Hansen, Selin Seçil Akın, and Ignacio González [(Link)](https://inequality.org/article/pass-through-tax-break-inequality-growth/){:target="_blank"} _Inequality.org_ (2025).
+
+"Republicans are Reportedly Considering a Tax Hike on the Rich. How Would this Affect Growth?" with Juan Montecino, Mary Hansen, and Ignacio González [(Link)](https://inequality.org/article/republican-tax-increase-on-the-rich/){:target="_blank"} _Inequality.org_ (2025).
+
+"Raising Capital Gains Taxes Would Reduce Inequality Without Economic Costs," with Juan Montecino, Mary Hansen, and Ignacio González [(Link)](https://inequality.org/article/capital-gains-taxes-inequality/){:target="_blank"} _Inequality.org_ (2025).
+
+"The Unequal Effect of Interest Rates by Race, Gender," [(Link)](https://www.frbsf.org/economic-research/publications/economic-letter/2022/august/unequal-effect-interest-rates-by-race-and-gender/){:target="_blank"} _Federal Reserve Bank of San Francisco, Economic Letter  2022-19_ (2022). 
+
