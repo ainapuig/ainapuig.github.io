@@ -18,7 +18,7 @@ The racial wealth gap is large. An explanation for the persistence of this gap i
 </ul>
 
 <!-- "Monetary Policy Transmission to Consumption: Inequalities by Gender and Race" [Feb. 2024](http://ainapuig.github.io/files/papers/Paper_MPInequGR_APuig.pdf){:target="_blank"} --> 
-"Monetary Policy Transmission to Consumption: Inequalities by Gender and Race" _[submitted]_
+"Monetary Policy Transmission to Consumption: Inequalities by Gender and Race"
 
 <ul>
 <details>
