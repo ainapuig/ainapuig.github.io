@@ -7,13 +7,13 @@ author_profile: true
 
 Working Papers
 ------
-"Racial Differences in the Marginal Propensity to Consume: New Survey Evidence and Theory" [Link](http://ainapuig.github.io/files/papers/Paper_MPC_Race_AinaPuig.pdf){:target="_blank"}
+"Racial Differences in Consumption and Saving Behavior: New Survey Evidence and Quantitative Theory of Status Signaling" [Link](http://ainapuig.github.io/files/papers/Paper_MPC_Race_AinaPuig.pdf){:target="_blank"}
 
 <ul>
 <details>
 <summary>Abstract</summary> 
 <br>
-The racial wealth gap is large. An explanation for the persistence of this gap is that people spend their resources differently. Estimating the marginal propensity to consume (MPC) by race is crucial in understanding the wealth gap. I draw on survey data I collected to estimate MPCs by race. MPCs are considerably higher among black than white respondents, even after adjusting for characteristics such as age, education, and income. In the Consumer Expenditure Survey, black households consume a higher share of visible goods out of overall consumption to signal status than white households. However, black consumers have more of a need to signal status to compensate for perceptions of them having lower incomes. To match these facts, I introduce status compensation motives into a standard life-cycle model and show that this mechanism can account for 36% of the racial difference in MPCs. Models that include racial heterogeneity in earnings volatility, unemployment shocks, and expenses, but exclude status motives, do not match the data showing that black people's spending on visible goods increases with wealth. I use my model to show how understanding status spending motives can be used to address the racial wealth gap by estimating the size of a new policy to eliminate racial differences in wealth.
+The racial wealth gap is large. An explanation for the persistence of this gap is that people spend their resources differently. Estimating the marginal propensity to consume (MPC) by race is crucial in understanding the wealth gap. I draw on survey data I collected to estimate MPCs by race. MPCs are considerably higher among black than white respondents, even after adjusting for characteristics such as age, education, and income. In the Consumer Expenditure Survey, black households consume a higher share of visible goods out of overall consumption to signal status than white households. However, black consumers have more of a need to signal status to compensate for perceptions of them having lower incomes. To match these facts, I introduce status compensation motives into a standard life-cycle model and show that this mechanism can account for 36% of the racial difference in MPCs. Models that include racial heterogeneity in earnings volatility, unemployment shocks, and expenses, but exclude status motives, do not match the data showing that black people’s spending on visible goods increases with wealth. I use my model to show how understanding status spending motives can be used to address the racial wealth gap by estimating the size of a new policy to eliminate racial differences in wealth.
 </details>
 </ul>
 
