@@ -23,8 +23,8 @@ __Research Interests__
 
 __Education__
 <ul>
-  <li>PhD in Economics, American University</li>
-  <li>BS in Economics, University of Maryland College Park</li>
+  <li>PhD in Economics, American University, 2025 </li>
+  <li>BS in Economics, University of Maryland College Park, 2019 </li>
 </ul>
 
 Recent News
