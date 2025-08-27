@@ -8,44 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-I'm a Clinical Assistant Professor of Economics at [Pace University](https://www.pace.edu/){:target="_blank"}. I visited the University of Pennsylvania during Spring 2024. My research interests are in applied macroeconomics, monetary economics, and consumer finance. 
+I'm a Clinical Assistant Professor of Economics at [Pace University](https://www.pace.edu/){:target="_blank"}. My research interests are in applied macroeconomics, monetary economics, and consumer finance. 
 
 
 Email: apuig [at] pace.edu
-
-<head>
-  <title>Cols</title>
-  <style>
-    #container {
-      display: grid;
-      grid-template-columns: 100px 1fr;
-    }
-  </style>
-</head>
-
-<body>
-  <div id="container">
-    <div id="left">
-     __Research Interests__
-<ul>
-  <li>Macroeconomics</li>
-  <li>Monetary Economics</li>
-  <li>Public Finance</li>
-  <li>Consumer Finance</li>
-</ul>
-    </div>
-    <div id="right">
-      __Research Interests__
-<ul>
-  <li>Macroeconomics</li>
-  <li>Monetary Economics</li>
-  <li>Public Finance</li>
-  <li>Consumer Finance</li>
-</ul>
-    </div>
-  </div>
-</body>
-
 
 __Research Interests__
 <ul>
@@ -55,15 +21,22 @@ __Research Interests__
   <li>Consumer Finance</li>
 </ul>
 
+__Education__
+<ul>
+  <li>PhD in Economics, American University</li>
+  <li>BS in Economics, University of Maryland College Park</li>
+</ul>
+
 Recent News
 ------
 <ul>
-  <li>Awarded <b>"best paper in applied economic research"</b> by American University Department of Economics (Apr. 2025)</li>
-  <li>Dissertation Fellow, <b>Federal Reserve Board</b> (June–Sept. 2024)</li>
-  <li>Winner of Barbara Bergmann Prize Grant. <b>Designed and collected survey</b> on consumer behaviors, expectations, and understanding of monetary policy (Sept. 2023)</li>
-  <li>Graduate Economic Intern, <b>Federal Reserve Board</b> (May–Jul. 2023)</li>
-  <li>Fund Intern, <b>International Monetary Fund</b> (Jun.–Sept. 2022)</li>
-  <li><a href="https://www.frbsf.org/news-and-media/news-articles/press-releases/2022/05/san-francisco-fed-honors-graduate-students-from-american-university-uc-irvine-in-unlocking-our-potential-program/">Winner</a> of <b>Federal Reserve Bank of San Francisco</b> "Unlocking Our Potential" Essay Contest. Visiting Research Scholar, Federal Reserve Bank of San Francisco (May–Jun. 2022) </li>
+  <li>Apr 2025: Awarded <b>"best paper in applied economic research"</b> by American University Department of Economics</li>
+  <li>Jun–Sep 2024: Dissertation Fellow, <b>Federal Reserve Board</b></li>
+  <li>Jan-May 2024: Visiting Fellow, <b>University of Pennsylvania, Department of Economics</b> </li>
+  <li>Sep 2023: Winner of Barbara Bergmann Prize Grant. <b>Designed and collected survey</b> on consumer behaviors, expectations, and understanding of monetary policy</li>
+  <li>May–Jul 2023: Graduate Economic Intern, <b>Federal Reserve Board</b></li>
+  <li>Jun–Sep 2022: Fund Intern, <b>International Monetary Fund</b></li>
+  <li>May–Jun 2022: Visiting Research Scholar, <b>Federal Reserve Bank of San Francisco</b>, <a href="https://www.frbsf.org/news-and-media/news-articles/press-releases/2022/05/san-francisco-fed-honors-graduate-students-from-american-university-uc-irvine-in-unlocking-our-potential-program/">Winner</a> of "Unlocking Our Potential" Essay Contest</li>
 </ul>
 
 
