@@ -8,11 +8,46 @@ redirect_from:
   - /about.html
 ---
 
-I'm a PhD candidate in economics at American University. I visited the University of Pennsylvania during Spring 2024. My research interests are in applied macroeconomics, monetary economics, and consumer finance. 
+I'm a Clinical Assistant Professor of Economics at [Pace University](https://www.pace.edu/){:target="_blank"}. I visited the University of Pennsylvania during Spring 2024. My research interests are in applied macroeconomics, monetary economics, and consumer finance. 
 
-Email: ak3851a [at] american.edu
 
-__Interests__
+Email: apuig [at] pace.edu
+
+<head>
+  <title>Cols</title>
+  <style>
+    #container {
+      display: grid;
+      grid-template-columns: 100px 1fr;
+    }
+  </style>
+</head>
+
+<body>
+  <div id="container">
+    <div id="left">
+     __Research Interests__
+<ul>
+  <li>Macroeconomics</li>
+  <li>Monetary Economics</li>
+  <li>Public Finance</li>
+  <li>Consumer Finance</li>
+</ul>
+    </div>
+    <div id="right">
+      __Research Interests__
+<ul>
+  <li>Macroeconomics</li>
+  <li>Monetary Economics</li>
+  <li>Public Finance</li>
+  <li>Consumer Finance</li>
+</ul>
+    </div>
+  </div>
+</body>
+
+
+__Research Interests__
 <ul>
   <li>Macroeconomics</li>
   <li>Monetary Economics</li>
