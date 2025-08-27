@@ -32,7 +32,7 @@ Recent News
 <ul>
   <li>Apr 2025: Awarded <b>"best paper in applied economic research"</b> by American University Department of Economics</li>
   <li>Jun–Sep 2024: Dissertation Fellow, <b>Federal Reserve Board</b></li>
-  <li>Jan-May 2024: Visiting Fellow, <b>University of Pennsylvania, Department of Economics</b> </li>
+  <li>Jan–May 2024: Visiting Fellow, <b>University of Pennsylvania, Department of Economics</b> </li>
   <li>Sep 2023: Winner of Barbara Bergmann Prize Grant. <b>Designed and collected survey</b> on consumer behaviors, expectations, and understanding of monetary policy</li>
   <li>May–Jul 2023: Graduate Economic Intern, <b>Federal Reserve Board</b></li>
   <li>Jun–Sep 2022: Fund Intern, <b>International Monetary Fund</b></li>
