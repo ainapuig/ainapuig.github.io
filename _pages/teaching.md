@@ -12,7 +12,7 @@ _Fall 2025_
 _Fall 2025_
 * __Eco 105: Principles of Macroeconomics__\
 _Fall 2025_, _Spring 2026_
-* __Eco 106: Principles of Macroeconomics__\
+* __Eco 106: Principles of Microeconomics__\
 _Spring 2026_
 
 \
