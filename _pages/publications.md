@@ -29,18 +29,26 @@ This paper estimates the causal effects of monetary policy shocks on household c
 </ul>
 
 
-"Unpaid Elderly Care Work and Women’s Labor Force Participation: The Case of South Korea," with Selin Seçil Akın, Sung Ah Bahk, Lídia Brun, Ignacio González
+"Universal Long-Term Care Reform and Caregivers' Labor Supply: Evidence from Korea," with Selin Seçil Akın, Sung Ah Bahk, Lídia Brun, Ignacio González
 
 <ul>
 <details>
 <summary>Abstract</summary>
 <br>
-This study investigates the impact of Korea's universal long-term care insurance (LTCI) system, implemented in 2008, on the labor market outcomes of family caregivers. We exploit multiple discontinuities in LTCI benefits to estimate their effect on caregivers' employment. Analyzing data from a nationally representative survey, we find a significant increase in labor force participation among women attributable to LTCI benefits, while no corresponding effect is observed for men. Additionally, the benefits reduce the likelihood of women engaging in family caregiving as their primary activity, underscoring the gender-differentiated impact of Korea's LTCI. These findings highlight the crucial role of LTC policies in shaping labor market outcomes for caregivers, with notable implications for female labor supply dynamics.
+This study investigates the impact of Korea's universal long-term care insurance (LTCI) system, implemented in 2008, on the labor market outcomes of family caregivers. We exploit multiple discontinuities in the LTCI benefit structure to estimate the benefits' effect on caregiver employment. Analyzing data from a nationally representative survey, we find that LTCI benefits significantly increase labor force participation among women but have no corresponding effect among men. Additionally, the benefits reduce women's likelihood of engaging in family caregiving as their primary activity, which underscores the differentiation in the impact of Korea's LTCI by gender. These findings highlight the crucial role of long-term care policies in shaping labor market outcomes for caregivers, with notable implications for the dynamics of women's labor supply.
 </details>
 </ul>
 
+
 "Monetary Policy and Labor Market Gender Gaps," with Valentina Flamini, Diego B. P. Gomes, Bihong Huang, Lisa Kolovich, Aleksandra Zdzienicka [(Link)](https://www.imf.org/en/Publications/WP/Issues/2023/09/29/Monetary-Policy-and-Labor-Market-Gender-Gaps-539650){:target="_blank"} _IMF Working Paper No. 23/211, International Monetary Fund_ (2023).
 
+<ul>
+<details>
+<summary>Abstract</summary>
+<br>
+We study the effects of monetary policy shocks on employment gender gaps in a panel of 22 countries using quarterly data from 1990 to 2019. Our results show that men’s employment falls more than women’s after contractionary monetary policy shocks, narrowing the employment gender gap over time. Two factors contribute to explaining this heterogeneous effect. First, a larger impact of monetary policy shocks on employment in the industry sector that employs more men. Second, the larger response of the employment gap in the sector (services) that employs the largest share of men and women. In terms of labor market adjustment, the narrowing of the gender employment gap is initially driven by a reduction in the gender unemployment gaps that, over time, results in an adjustment in the gender labor force participation gap—with men’s labor force participation dropping more than women’s. The effects are larger in countries with more flexible labor market regulations, higher gender wage gaps, and lower informal women’s employment compared to men’s. Finally, the effects are also larger for contractionary monetary policy shocks and during expansions.
+</details>
+</ul>
 
 Works in Progress
 ------
