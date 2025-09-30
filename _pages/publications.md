@@ -17,8 +17,8 @@ The racial wealth gap is large. An explanation for the persistence of this gap i
 </details>
 </ul>
 
-<!-- "Monetary Policy Transmission to Consumption: Inequalities by Gender and Race" [Feb. 2024](http://ainapuig.github.io/files/papers/Paper_MPInequGR_APuig.pdf){:target="_blank"} --> 
-"Monetary Policy Transmission to Consumption: Inequalities by Gender and Race"
+
+"Monetary Policy Transmission to Consumption: Inequalities by Gender and Race" [Link](http://ainapuig.github.io/files/papers/Paper_MPConsumption_AinaPuig.pdf){:target="_blank"}
 
 <ul>
 <details>
@@ -29,8 +29,7 @@ This paper estimates the causal effects of monetary policy shocks on household c
 </ul>
 
 
-"Unpaid Elderly Care Work and Women’s Labor Force Participation: The Case of South Korea," with Selin Seçil Akın, Sung Ah Bahk,
-Lídia Brun, Ignacio González
+"Unpaid Elderly Care Work and Women’s Labor Force Participation: The Case of South Korea," with Selin Seçil Akın, Sung Ah Bahk, Lídia Brun, Ignacio González
 
 <ul>
 <details>
