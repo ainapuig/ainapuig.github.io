@@ -29,13 +29,13 @@ This paper estimates the causal effects of monetary policy shocks on household c
 </ul>
 
 
-"Universal Long-Term Care Reform and Caregivers' Labor Supply: Evidence from Korea," with Selin Seçil Akın, Sung Ah Bahk, Lídia Brun, Ignacio González
+"Universal Long-Term Care Reform and Caregivers' Labor Supply: Evidence from Korea," with Selin Seçil Akın, Sung Ah Bahk, Lídia Brun, Ignacio González  [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5599570){:target="_blank"}
 
 <ul>
 <details>
 <summary>Abstract</summary>
 <br>
-This study investigates the impact of Korea's universal long-term care insurance (LTCI) system, implemented in 2008, on the labor market outcomes of family caregivers. We exploit multiple discontinuities in the LTCI benefit structure to estimate the benefits' effect on caregiver employment. Analyzing data from a nationally representative survey, we find that LTCI benefits significantly increase labor force participation among women but have no corresponding effect among men. Additionally, the benefits reduce women's likelihood of engaging in family caregiving as their primary activity, which underscores the differentiation in the impact of Korea's LTCI by gender. These findings highlight the crucial role of long-term care policies in shaping labor market outcomes for caregivers, with notable implications for the dynamics of women's labor supply.
+This study investigates the impact of Korea's universal long-term care insurance (LTCI) system, implemented in 2008, on the labor market outcomes of family caregivers. We exploit multiple discontinuities in the LTCI benefit structure to estimate the benefits' effect on caregiver employment. Analyzing data from a nationally representative survey, we find that LTCI benefits significantly increase labor force participation among women but have no corresponding effect among men. Additionally, the benefits reduce women's likelihood of engaging in family caregiving as their primary activity. These findings highlight the crucial role of long-term care policies in shaping labor market outcomes for caregivers, with notable implications for the dynamics of women's labor supply.
 </details>
 </ul>
 
