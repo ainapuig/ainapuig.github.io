@@ -30,11 +30,11 @@ This paper estimates the causal effects of monetary policy shocks on household c
 
 
 "Universal Long-Term Care Reform and Caregivers' Labor Supply: Evidence from Korea," with 
-Selin Seçil Akın, 
-Sung Ah Bahk, 
+<a href="https://sites.google.com/view/selinsecilakin" target="_blank" style="text-decoration:none; color:inherit;">Selin Seçil Akın</a>,
+<a href="https://www.sbahk.com/" target="_blank" style="text-decoration:none; color:inherit;">Sung Ah Bahk</a>,
 Lídia Brun, 
 <a href="https://www.ignacioglz.com/" target="_blank" style="text-decoration:none; color:inherit;">Ignacio González</a>  
-[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5599570){:target="_blank"}
+<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5599570" target="_blank" style="color:inherit;">SSRN</a>  
 
 <ul>
 <details>
