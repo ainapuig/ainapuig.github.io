@@ -7,7 +7,8 @@ author_profile: true
 
 Working Papers
 ------
-"Racial Differences in Consumption and Saving Behavior: New Survey Evidence and Quantitative Theory of Status Signaling" [Link](http://ainapuig.github.io/files/papers/Paper_MPC_Race_AinaPuig.pdf){:target="_blank"}
+"Racial Differences in Consumption and Saving Behavior: New Survey Evidence and Quantitative Theory of Status Signaling" 
+<a href="http://ainapuig.github.io/files/papers/Paper_MPC_Race_AinaPuig.pdf" target="_blank" style="color:inherit;">[Link]</a>  
 
 <ul>
 <details>
@@ -18,7 +19,8 @@ The racial wealth gap is large. An explanation for the persistence of this gap i
 </ul>
 
 
-"Monetary Policy Transmission to Consumption: Inequalities by Gender and Race" [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5606494){:target="_blank"}
+"Monetary Policy Transmission to Consumption: Inequalities by Gender and Race"
+<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5606494" target="_blank" style="color:inherit;">[SSRN]</a>  
 
 <ul>
 <details>
@@ -33,8 +35,7 @@ This paper estimates the causal effects of monetary policy shocks on household c
 <a href="https://sites.google.com/view/selinsecilakin" target="_blank" style="text-decoration:none; color:inherit;">Selin Seçil Akın</a>,
 <a href="https://www.sbahk.com/" target="_blank" style="text-decoration:none; color:inherit;">Sung Ah Bahk</a>,
 Lídia Brun, 
-<a href="https://www.ignacioglz.com/" target="_blank" style="text-decoration:none; color:inherit;">Ignacio González</a>  
-<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5599570" target="_blank" style="color:inherit;">SSRN</a>  
+<a href="https://www.ignacioglz.com/" target="_blank" style="text-decoration:none; color:inherit;">Ignacio González</a>  <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5599570" target="_blank" style="color:inherit;">[SSRN]</a>  
 
 <ul>
 <details>
@@ -45,7 +46,9 @@ This study investigates the impact of Korea's universal long-term care insurance
 </ul>
 
 
-"Monetary Policy and Labor Market Gender Gaps," with Valentina Flamini, Diego B. P. Gomes, Bihong Huang, Lisa Kolovich, Aleksandra Zdzienicka [(Link)](https://www.imf.org/en/Publications/WP/Issues/2023/09/29/Monetary-Policy-and-Labor-Market-Gender-Gaps-539650){:target="_blank"} _IMF Working Paper No. 23/211, International Monetary Fund_ (2023).
+"Monetary Policy and Labor Market Gender Gaps," with Valentina Flamini, Diego B. P. Gomes, Bihong Huang, Lisa Kolovich, Aleksandra Zdzienicka, _IMF Working Paper No. 23/211, International Monetary Fund_ (2023).
+<a href="https://www.imf.org/en/Publications/WP/Issues/2023/09/29/Monetary-Policy-and-Labor-Market-Gender-Gaps-539650" target="_blank" style="color:inherit;">[Link]</a>  
+
 
 <ul>
 <details>
@@ -62,11 +65,11 @@ Works in Progress
 
 Policy Papers
 ------
-"Increased Pass-Through Business Tax Break Would Worsen Inequality Without Boosting Growth" with Juan Montecino, Mary Hansen, Selin Seçil Akın, and Ignacio González [(Link)](https://inequality.org/article/pass-through-tax-break-inequality-growth/){:target="_blank"} _Inequality.org_ (2025).
+"Increased Pass-Through Business Tax Break Would Worsen Inequality Without Boosting Growth" with Juan Montecino, Mary Hansen, Selin Seçil Akın, and Ignacio González <a href="https://inequality.org/article/pass-through-tax-break-inequality-growth/" target="_blank" style="color:inherit;">[Link]</a>  _Inequality.org_ (2025).
 
-"Republicans are Reportedly Considering a Tax Hike on the Rich. How Would this Affect Growth?" with Juan Montecino, Mary Hansen, and Ignacio González [(Link)](https://inequality.org/article/republican-tax-increase-on-the-rich/){:target="_blank"} _Inequality.org_ (2025).
+"Republicans are Reportedly Considering a Tax Hike on the Rich. How Would this Affect Growth?" with Juan Montecino, Mary Hansen, and Ignacio González <a href="https://inequality.org/article/republican-tax-increase-on-the-rich/" target="_blank" style="color:inherit;">[Link]</a>  _Inequality.org_ (2025).
 
-"Raising Capital Gains Taxes Would Reduce Inequality Without Economic Costs," with Juan Montecino, Mary Hansen, and Ignacio González [(Link)](https://inequality.org/article/capital-gains-taxes-inequality/){:target="_blank"} _Inequality.org_ (2025).
+"Raising Capital Gains Taxes Would Reduce Inequality Without Economic Costs," with Juan Montecino, Mary Hansen, and Ignacio González <a href="https://inequality.org/article/capital-gains-taxes-inequality/" target="_blank" style="color:inherit;">[Link]</a> _Inequality.org_ (2025).
 
-"The Unequal Effect of Interest Rates by Race, Gender," [(Link)](https://www.frbsf.org/economic-research/publications/economic-letter/2022/august/unequal-effect-interest-rates-by-race-and-gender/){:target="_blank"} _Federal Reserve Bank of San Francisco, Economic Letter  2022-19_ (2022). 
+"The Unequal Effect of Interest Rates by Race, Gender," <a href="https://www.frbsf.org/economic-research/publications/economic-letter/2022/august/unequal-effect-interest-rates-by-race-and-gender/" target="_blank" style="color:inherit;">[Link]</a> _Federal Reserve Bank of San Francisco, Economic Letter  2022-19_ (2022). 
 
