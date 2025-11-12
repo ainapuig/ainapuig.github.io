@@ -18,6 +18,16 @@ The racial wealth gap is large. An explanation for the persistence of this gap i
 </details>
 </ul>
 
+"Beliefs Under Lockdown: Causal Evidence on Inflation Expectations from China," with 
+<a href="https://simon-xg-sheng.github.io/web/" target="_blank" style="text-decoration:none; color:inherit;">Xuguang Simon Sheng</a>, Zhiyong Fan  
+
+<ul>
+<details>
+<summary>Abstract</summary> 
+<br>
+This paper studies how lockdown policies shape household inflation expectations and their responses to information treatments, using the first national survey of inflation expectations in China. The study exploits spatial variation in local lockdown policies during the COVID-19 pandemic to identify the causal impact of the policy environment on expectation formation. We find that households systematically overestimate inflation but respond to information treatments in a manner consistent with Bayesian updating. Households under lockdown exhibit higher inflation expectations and respond more strongly to policy-based information - particularly China’s inflation target - suggesting greater trust in government institutions, while households not in lockdown are more sensitive to negative economic news. The effects of information treatments vary with decision-making behavior and price salience, and have implications for households’ planned spending versus saving.
+</details>
+</ul>
 
 "Monetary Policy Transmission to Consumption: Inequalities by Gender and Race"
 <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5606494" target="_blank" style="color:inherit;">[SSRN]</a>  
