@@ -30,7 +30,7 @@ __Education__
 Recent News
 ------
 <ul>
-  <li>Nov 2025: <b>New working paper! Feedback welcome </b>  <a href="http://ainapuig.github.io/files/papers/FanPuigSheng_Beliefs Under Lockdown_1125.pdf" target="_blank" style="color:inherit;">[Link]</a> "Beliefs Under Lockdown: Causal Evidence on Inflation Expectations from China" with Xuguang Simon Sheng and Zhiyong Fan</li>
+  <li>Nov 2025: <b>New working paper! Feedback welcome </b>  <a href="http://ainapuig.github.io/files/papers/FanPuigSheng_Beliefs Under Lockdown_1125.pdf" target="_blank" style="color:inherit;">[Link]</a> "Beliefs Under Lockdown: Causal Evidence on Inflation Expectations from China" with Xuguang Simon Sheng and Zhiyong Fan</li> 
   <li>Apr 2025: Awarded <b>"best paper in applied economic research"</b> by American University Department of Economics</li>
   <li>Jun–Sep 2024: Dissertation Fellow, <b>Federal Reserve Board</b></li>
   <li>Jan–May 2024: Visiting Fellow, <b>University of Pennsylvania, Department of Economics</b> </li>
