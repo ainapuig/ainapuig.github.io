@@ -16,6 +16,11 @@ _Fall 2025_, _Spring 2026_
 _Spring 2026_
 
 \
+__The Levy Economics Institute of Bard College__
+* __Econ 509: MA Gender and Economics__ \
+_Spring 2026_
+
+\
 __American University: Teaching Assistant__
 
 * __Econ 150: Economics for Business__ (lead lecturer)\
