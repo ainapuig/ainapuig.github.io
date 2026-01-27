@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a Clinical Assistant Professor of Economics at [Pace University](https://www.pace.edu/){:target="_blank"}. My research interests are in applied macroeconomics, monetary economics, and consumer finance. 
+I'm a Clinical Assistant Professor of Economics at [Pace University](https://www.pace.edu/){:target="_blank"} and Visiting Instructor at the [Levy Economics Institute of Bard College](https://www.bard.edu/levygrad/faculty/){:target="_blank"}. My research interests are in applied macroeconomics, monetary economics, and consumer finance. 
 
 
 Email: apuig [at] pace.edu
