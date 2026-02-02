@@ -24,6 +24,7 @@ __Research Interests__
 __Education__
 <ul>
   <li>PhD in Economics, American University, 2025 </li>
+   Visiting Fellow, Department of Economics, University of Pennsylvania, Spring 2024
   <li>BS in Economics, University of Maryland College Park, 2019 </li>
 </ul>
 
