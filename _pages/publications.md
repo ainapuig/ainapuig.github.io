@@ -29,6 +29,7 @@ This paper studies how lockdown policies shape household inflation expectations 
 </ul>
 
 "Monetary Policy Transmission to Consumption: Inequalities by Gender and Race"
+<a href="https://www.levyinstitute.org/publications/monetary-policy-transmission-to-consumption-inequalities-by-gender-and-race/" target="_blank" style="color:inherit;">[Levy Working Paper]</a>  
 <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5606494" target="_blank" style="color:inherit;">[SSRN]</a>  
 
 <ul>
