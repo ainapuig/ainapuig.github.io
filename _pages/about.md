@@ -32,7 +32,7 @@ __Education__
 Recent News
 ------
 <ul>
-  <li>Mar 2026: My paper "Monetary Policy Transmission to Consumption: Inequalities by Gender and Race" is now a <b>Working Paper</b> at the Levy Economics Institue of Bard College <a href="https://www.levyinstitute.org/publications/monetary-policy-transmission-to-consumption-inequalities-by-gender-and-race/" target="_blank" style="color:inherit;">[Link]</a>     
+  <li>Mar 2026: My paper "Monetary Policy Transmission to Consumption: Inequalities by Gender and Race" is now a <b>Working Paper</b> at the Levy Economics Institue of Bard College <a href="https://www.levyinstitute.org/publications/monetary-policy-transmission-to-consumption-inequalities-by-gender-and-race/" target="_blank" style="color:inherit;">[Link]</a></li>     
   <li>Nov 2025: <b>New working paper! Feedback welcome </b>  <a href="http://ainapuig.github.io/files/papers/FanPuigSheng_Beliefs Under Lockdown_1125.pdf" target="_blank" style="color:inherit;">[Link]</a> "Beliefs Under Lockdown: Causal Evidence on Inflation Expectations from China" with Zhiyong Fan and Xuguang Simon Sheng</li> 
   <li>Apr 2025: Awarded <b>"best paper in applied economic research"</b> by American University Department of Economics</li>
   <li>Jun–Sep 2024: Dissertation Fellow, <b>Federal Reserve Board</b></li>
