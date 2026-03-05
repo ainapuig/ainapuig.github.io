@@ -40,14 +40,14 @@ Recent News
   <li>Sep 2023: Winner of Barbara Bergmann Prize Grant. <b>Designed and collected survey</b> on consumer behaviors, expectations, and understanding of monetary policy</li>
   <li>May–Jul 2023: Graduate Economic Intern, <b>Federal Reserve Board</b></li>
   <li>Jun–Sep 2022: Fund Intern, <b>International Monetary Fund</b></li>
-  <li>May–Jun 2022: Visiting Research Scholar, <b>Federal Reserve Bank of San Francisco</b>, <a href="https://www.frbsf.org/news-and-media/news-articles/press-releases/2022/05/san-francisco-fed-honors-graduate-students-from-american-university-uc-irvine-in-unlocking-our-potential-program/">Winner</a> of "Unlocking Our Potential" Essay Contest</li>
+  <li>May–Jun 2022: Visiting Research Scholar, <b>Federal Reserve Bank of San Francisco</b>, <a href="https://www.frbsf.org/news-and-media/news-articles/press-releases/2022/05/san-francisco-fed-honors-graduate-students-from-american-university-uc-irvine-in-unlocking-our-potential-program/">Winner</a> of "Unlocking Our Potential" Essay Contest </li>
 </ul>
 
 
 
 Job Market Paper
 ------
-[Racial Differences in Consumption and Saving Behavior: New Survey Evidence and Quantitative Theory of Status Signaling](http://ainapuig.github.io/files/papers/Paper_MPC_Race_AinaPuig.pdf){:target="_blank"}
+Racial Differences in Consumption and Saving Behavior: New Survey Evidence and Quantitative Theory of Status Signaling <a href="http://ainapuig.github.io/files/papers/Paper_MPC_Race_AinaPuig.pdf" target="_blank" style="color:inherit;">[Link]</a> 
 
 <ul>
   <li>Award for "best paper in applied economic research", Department of Economics, American University, 2025</li>
