@@ -18,7 +18,7 @@ The racial wealth gap is large. An explanation for the persistence of this gap i
 </details>
 </ul>
 
-"Beliefs Under Lockdown: Causal Evidence on Inflation Expectations from China," with Zhiyong Fan and <a href="https://simon-xg-sheng.github.io/web/" target="_blank" style="text-decoration:none; color:inherit;">Xuguang Simon Sheng</a>  <a href="http://ainapuig.github.io/files/papers/FanPuigSheng_PolicyExpectations_2603.pdf" target="_blank" style="color:inherit;">[Link]</a>
+"Policy Environments and Household Inflation Expectations," with Zhiyong Fan and <a href="https://simon-xg-sheng.github.io/web/" target="_blank" style="text-decoration:none; color:inherit;">Xuguang Simon Sheng</a>  <a href="http://ainapuig.github.io/files/papers/FanPuigSheng_PolicyExpectations_2603.pdf" target="_blank" style="color:inherit;">[Link]</a>
 
 <ul>
 <details>
