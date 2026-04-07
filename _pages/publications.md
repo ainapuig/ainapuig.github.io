@@ -18,13 +18,13 @@ The racial wealth gap is large. An explanation for the persistence of this gap i
 </details>
 </ul>
 
-"Beliefs Under Lockdown: Causal Evidence on Inflation Expectations from China," with <a href="https://simon-xg-sheng.github.io/web/" target="_blank" style="text-decoration:none; color:inherit;">Xuguang Simon Sheng</a>, Zhiyong Fan  <a href="http://ainapuig.github.io/files/papers/FanPuigSheng_Beliefs Under Lockdown_1125.pdf" target="_blank" style="color:inherit;">[Link]</a>
+"Beliefs Under Lockdown: Causal Evidence on Inflation Expectations from China," with Zhiyong Fan and <a href="https://simon-xg-sheng.github.io/web/" target="_blank" style="text-decoration:none; color:inherit;">Xuguang Simon Sheng</a>  <a href="http://ainapuig.github.io/files/papers/FanPuigSheng_PolicyExpectations_2603.pdf" target="_blank" style="color:inherit;">[Link]</a>
 
 <ul>
 <details>
 <summary>Abstract</summary> 
 <br>
-This paper studies how lockdown policies shape household inflation expectations and their responses to information treatments, using the first national survey of inflation expectations in China. The study exploits spatial variation in local lockdown policies during the COVID-19 pandemic to identify the causal impact of the policy environment on expectation formation. We find that households systematically overestimate inflation but respond to information treatments in a manner consistent with Bayesian updating. Households under lockdown exhibit higher inflation expectations and respond more strongly to policy-based information - particularly China’s inflation target - suggesting greater trust in government institutions, while households not in lockdown are more sensitive to negative economic news. The effects of information treatments vary with decision-making behavior and price salience, and have implications for households’ planned spending versus saving.
+We study how policy environments shape household inflation expectations and responses to information. Because households base consumption and saving decisions on expected inflation, misperceptions can distort intertemporal consumption choices. Using the first national survey of inflation expectations in China, combined with randomized information treatments and spatial variation in COVID-19 lockdown policies, we show that identical signals are processed differently across policy regimes. Households under lockdown respond more strongly to domestic policy communication, particularly official inflation targets, whereas households not in lockdown react more to adverse macroeconomic and pandemic news. Counterfactual exercises reveal asymmetric belief adjustments: entering lockdown leads to large upward revisions in inflation expectations, while exiting lockdown generates smaller downward revisions. We rationalize these patterns with a model of Bayesian updating with endogenous attention, in which lockdown status affects prior precision and the welfare cost of belief errors. The results demonstrate that policy regimes alter expectation formation by changing the effective precision and relevance of information.
 </details>
 </ul>
 
