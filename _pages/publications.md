@@ -7,7 +7,7 @@ author_profile: true
 
 Working Papers
 ------
-"Racial Differences in Consumption and Saving Behavior: New Survey Evidence and Quantitative Theory of Status Signaling" 
+"Racial Differences in Consumption and Saving Behavior" 
 <a href="http://ainapuig.github.io/files/papers/Paper_MPC_Race_AinaPuig.pdf" target="_blank" style="color:inherit;">[Link]</a>  
 
 <ul>
