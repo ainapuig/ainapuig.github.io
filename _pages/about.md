@@ -47,7 +47,7 @@ Recent News
 
 Job Market Paper
 ------
-Racial Differences in Consumption and Saving Behavior: New Survey Evidence and Quantitative Theory of Status Signaling <a href="http://ainapuig.github.io/files/papers/Paper_MPC_Race_AinaPuig.pdf" target="_blank" style="color:inherit;">[Link]</a> 
+Racial Differences in Consumption and Saving Behavior: New Survey Evidence on MPCs and Quantitative Theory of Status Signaling <a href="http://ainapuig.github.io/files/papers/Paper_MPC_Race_AinaPuig.pdf" target="_blank" style="color:inherit;">[Link]</a> 
 
 <ul>
   <li>Award for "best paper in applied economic research", Department of Economics, American University, 2025</li>
