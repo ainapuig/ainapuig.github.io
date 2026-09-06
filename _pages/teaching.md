@@ -6,10 +6,11 @@ author_profile: true
 ---
 
 __Pace University: Clinical Assistant Professor__
-* Eco 530: MA Macroeconomic Analysis (_Fall 2025_)
+* Eco 530: MA Macroeconomic Analysis (_Fall 2025_, _Fall 2026_)
+* Eco 687: MA Time Series Analysis (_Spring 2027_)
 * Eco 585: MA Applied Econometrics (_Fall 2025_)
-* Eco 105: Principles of Macroeconomics (_Fall 2025_, _Spring 2026_)
-* Eco 106: Principles of Microeconomics (_Spring 2026_)
+* Eco 105: Principles of Macroeconomics (_Fall 2025_ - _Spring 2027_)
+* Eco 106: Principles of Microeconomics (_Spring 2026, _Spring 2027__)
 
 \
 __Levy Economics Institute of Bard College: Visiting Instructor__
