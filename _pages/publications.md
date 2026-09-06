@@ -29,8 +29,7 @@ We study how policy environments shape household inflation expectations and resp
 </ul>
 
 "Monetary Policy Transmission to Consumption: Inequalities by Gender and Race"
-<a href="https://www.levyinstitute.org/publications/monetary-policy-transmission-to-consumption-inequalities-by-gender-and-race/" target="_blank" style="color:inherit;">[Levy Working Paper]</a>  
-<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5606494" target="_blank" style="color:inherit;">[SSRN]</a>   _[Reject&Resubmit European Economic Review]_
+<a href="https://www.levyinstitute.org/publications/monetary-policy-transmission-to-consumption-inequalities-by-gender-and-race/" target="_blank" style="color:inherit;">[Levy Working Paper]</a>  <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5606494" target="_blank" style="color:inherit;">[SSRN]</a>   _(Reject&Resubmit European Economic Review)_
 
 <ul>
 <details>
@@ -41,13 +40,13 @@ This paper estimates the causal effects of monetary policy shocks on household c
 </ul>
 
 "The Conversion Penalty from Capabilities to Equivalent Livelihood Outcomes," with 
-<a href="https://www.bristol.ac.uk/people/person/Ruth-Badru-bf9add6e-5b8f-4515-b202-b38c2721d1cb/" target="_blank" style="text-decoration:none; color:inherit;">Ruth Badru</a>  _[Conditionally accepted in Review of Political Economy]_
+<a href="https://www.bristol.ac.uk/people/person/Ruth-Badru-bf9add6e-5b8f-4515-b202-b38c2721d1cb/" target="_blank" style="text-decoration:none; color:inherit;">Ruth Badru</a>  _(Conditionally accepted in Review of Political Economy)_
 
 "Universal Long-Term Care Reform and Caregivers' Labor Supply: Evidence from Korea," with 
 <a href="https://sites.google.com/view/selinsecilakin" target="_blank" style="text-decoration:none; color:inherit;">Selin Seçil Akın</a>,
 <a href="https://www.sbahk.com/" target="_blank" style="text-decoration:none; color:inherit;">Sung Ah Bahk</a>,
 Lídia Brun, 
-<a href="https://www.ignacioglz.com/" target="_blank" style="text-decoration:none; color:inherit;">Ignacio González</a>  <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5599570" target="_blank" style="color:inherit;">[SSRN]</a> _[under review]_ 
+<a href="https://www.ignacioglz.com/" target="_blank" style="text-decoration:none; color:inherit;">Ignacio González</a>  <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5599570" target="_blank" style="color:inherit;">[SSRN]</a> _(under review)_ 
 
 <ul>
 <details>
