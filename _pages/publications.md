@@ -8,7 +8,7 @@ author_profile: true
 Working Papers
 ------
 "Racial Differences in Consumption and Saving Behavior" 
-<a href="http://ainapuig.github.io/files/papers/Paper_MPC_Race_AinaPuig.pdf" target="_blank" style="color:inherit;">[Link]</a>  
+<a href="http://ainapuig.github.io/files/papers/Paper_MPC_Race_AinaPuig.pdf" target="_blank" style="color:inherit;">[Link]</a> 
 
 <ul>
 <details>
@@ -30,7 +30,7 @@ We study how policy environments shape household inflation expectations and resp
 
 "Monetary Policy Transmission to Consumption: Inequalities by Gender and Race"
 <a href="https://www.levyinstitute.org/publications/monetary-policy-transmission-to-consumption-inequalities-by-gender-and-race/" target="_blank" style="color:inherit;">[Levy Working Paper]</a>  
-<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5606494" target="_blank" style="color:inherit;">[SSRN]</a>  
+<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5606494" target="_blank" style="color:inherit;">[SSRN]</a>   _[Reject&Resubmit European Economic Review]_
 
 <ul>
 <details>
@@ -40,12 +40,14 @@ This paper estimates the causal effects of monetary policy shocks on household c
 </details>
 </ul>
 
+"The Conversion Penalty from Capabilities to Equivalent Livelihood Outcomes," with 
+<a href="https://www.bristol.ac.uk/people/person/Ruth-Badru-bf9add6e-5b8f-4515-b202-b38c2721d1cb/" target="_blank" style="text-decoration:none; color:inherit;">Ruth Badru</a>  _[Conditionally accepted in Review of Political Economy]_
 
 "Universal Long-Term Care Reform and Caregivers' Labor Supply: Evidence from Korea," with 
 <a href="https://sites.google.com/view/selinsecilakin" target="_blank" style="text-decoration:none; color:inherit;">Selin Seçil Akın</a>,
 <a href="https://www.sbahk.com/" target="_blank" style="text-decoration:none; color:inherit;">Sung Ah Bahk</a>,
 Lídia Brun, 
-<a href="https://www.ignacioglz.com/" target="_blank" style="text-decoration:none; color:inherit;">Ignacio González</a>  <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5599570" target="_blank" style="color:inherit;">[SSRN]</a>  
+<a href="https://www.ignacioglz.com/" target="_blank" style="text-decoration:none; color:inherit;">Ignacio González</a>  <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5599570" target="_blank" style="color:inherit;">[SSRN]</a> _[under review]_ 
 
 <ul>
 <details>
@@ -75,11 +77,10 @@ Works in Progress
 
 Policy Papers
 ------
+"The Unequal Effect of Interest Rates by Race, Gender," <a href="https://www.frbsf.org/economic-research/publications/economic-letter/2022/august/unequal-effect-interest-rates-by-race-and-gender/" target="_blank" style="color:inherit;">[Link]</a> _Federal Reserve Bank of San Francisco, Economic Letter  2022-19_ (2022). 
+
 "Increased Pass-Through Business Tax Break Would Worsen Inequality Without Boosting Growth" with Juan Montecino, Mary Hansen, Selin Seçil Akın, and Ignacio González <a href="https://inequality.org/article/pass-through-tax-break-inequality-growth/" target="_blank" style="color:inherit;">[Link]</a>  _Inequality.org_ (2025).
 
 "Republicans are Reportedly Considering a Tax Hike on the Rich. How Would this Affect Growth?" with Juan Montecino, Mary Hansen, and Ignacio González <a href="https://inequality.org/article/republican-tax-increase-on-the-rich/" target="_blank" style="color:inherit;">[Link]</a>  _Inequality.org_ (2025).
 
 "Raising Capital Gains Taxes Would Reduce Inequality Without Economic Costs," with Juan Montecino, Mary Hansen, and Ignacio González <a href="https://inequality.org/article/capital-gains-taxes-inequality/" target="_blank" style="color:inherit;">[Link]</a> _Inequality.org_ (2025).
-
-"The Unequal Effect of Interest Rates by Race, Gender," <a href="https://www.frbsf.org/economic-research/publications/economic-letter/2022/august/unequal-effect-interest-rates-by-race-and-gender/" target="_blank" style="color:inherit;">[Link]</a> _Federal Reserve Bank of San Francisco, Economic Letter  2022-19_ (2022). 
-
