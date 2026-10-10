@@ -29,7 +29,7 @@ We study how policy environments shape household inflation expectations and resp
 </ul>
 
 "Monetary Policy Transmission to Consumption: Inequalities by Gender and Race"
-<a href="https://www.levyinstitute.org/publications/monetary-policy-transmission-to-consumption-inequalities-by-gender-and-race/" target="_blank" style="color:inherit;">[Levy Working Paper]</a>  <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5606494" target="_blank" style="color:inherit;">[SSRN]</a>   _(Reject&Resubmit at the European Economic Review)_
+<a href="http://ainapuig.github.io/files/papers/Paper_MPConsumption_AinaPuig.pdf" target="_blank" style="color:inherit;">[Link]</a>  <a href="https://www.levyinstitute.org/publications/monetary-policy-transmission-to-consumption-inequalities-by-gender-and-race/" target="_blank" style="color:inherit;">[Levy Working Paper]</a>  <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5606494" target="_blank" style="color:inherit;">[SSRN]</a>   _(Reject&Resubmit at the European Economic Review)_
 
 <ul>
 <details>
