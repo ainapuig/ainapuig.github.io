@@ -32,7 +32,7 @@ __Education__
 Recent News
 ------
 <ul>
-  <li>Oct 2026: Excited to present at the NY Fed's Junior Faculty Macro Workshop, presenting a new project on "Human Capital, Asset-Market Access, and Intergenerational Mobility"</li> 
+  <li>Oct 2026: Presenting at the <b>NY Fed's Junior Faculty Macro Workshop</b>, new project on "Human Capital, Asset-Market Access, and Intergenerational Mobility"</li> 
   <li>Mar 2026: My paper "Monetary Policy Transmission to Consumption: Inequalities by Gender and Race" is now a <b>Working Paper</b> at the Levy Economics Institue of Bard College <a href="https://www.levyinstitute.org/publications/monetary-policy-transmission-to-consumption-inequalities-by-gender-and-race/" target="_blank" style="color:inherit;">[Link]</a></li>     
   <li>Nov 2025: <b>New working paper! Feedback welcome </b>  <a href="http://ainapuig.github.io/files/papers/FanPuigSheng_PolicyExpectations_2603.pdf" target="_blank" style="color:inherit;">[Link]</a> "Policy Environments and Household Inflation Expectations" with Zhiyong Fan and Xuguang Simon Sheng</li> 
   <li>Apr 2025: Awarded <b>"best paper in applied economic research"</b> by American University Department of Economics</li>
